@@ -13,6 +13,19 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.4.0"
-  }
+    "vite": "^4.5.14"
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashmitsinghbyare/portfolioby_AB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashmitsinghbyare/portfolioby_AB/issues"
+  },
+  "homepage": "https://github.com/ashmitsinghbyare/portfolioby_AB#readme",
+  "description": ""
 }
